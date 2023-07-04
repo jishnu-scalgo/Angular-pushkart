@@ -8,3 +8,12 @@
     margin-left: 200px;
     margin-right: 200px;
 }
+
+.card-nav{
+    margin: 100px;
+    display: inline-flex;
+    flex-direction: row;
+}
+.card{
+    margin: 20px;
+}
