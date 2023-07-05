@@ -1,0 +1,19 @@
+.carousel{
+    max-width: 80%;
+    max-height: 700px;
+    border: 1px solid white;
+    border-radius: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.card-nav{
+    margin: 100px;
+    display: inline-flex;
+    flex-direction: row;
+}
+.card{
+    margin: 20px;
+}
