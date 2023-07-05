@@ -1,0 +1,74 @@
+.base-nav{
+    background-color: #6aabd2;
+    height: 100px;
+}
+.name{
+    text-decoration: none;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    margin: 20px 0px 0px 0px;
+}
+.base-nav span{
+    color: #fce7ab;
+}
+.logo{
+    margin: 30px 0px 10px 30px;
+}
+.logo img{
+    max-width: 40px;
+    max-height: 40px;
+    padding: 0px;
+}
+.logoname{
+    display: flex; 
+}
+.search{
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    align-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left: 300px;
+}
+button{
+    margin-left: 10px;
+}
+.lists{
+    display: block;
+}
+ul{
+    display: inherit;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    margin-bottom: 0px;
+    margin-left: 500px;
+}
+ul li{
+    padding: 5px 20px 5px 20px;
+}
+.profile-image{
+    max-width: 40px;
+    max-height: 40px;
+    border-radius: 50%;
+}
+.dropdown-item{
+    padding: 0px;
+}
+.container-fluid{
+    background-color: aliceblue;
+    max-width: 100%;
+    height: 100px;
+    text-align: center;
+    padding: 30px;
+}
+.category i{
+    text-align: center;
+    padding: 15px;
+    font-style: normal;
+    font-size: 25px;
+    font-weight: 500;
+}
